@@ -808,11 +808,12 @@ HEADER STYLING
   padding: 0;
   height: 3em; }
   .header .container {
+    text-align: center;
     padding: 0;
     max-width: 100%; }
   .header h1 {
     margin: 0;
-    float: left;
+    
     padding-left: 2rem;
     font-size: 1em;
     line-height: 3em;
