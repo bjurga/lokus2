@@ -750,7 +750,7 @@ MENU STYLING
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  float: right;
+/*   float: right; */
   line-height: 2em;
   margin-top: .5em;
   background-color: seagreen;
@@ -758,8 +758,8 @@ MENU STYLING
   padding: 0 .5em;
   color: white;
   text-decoration: none;
-  position: relative;
-  right: 2rem;
+/*   position: relative;
+  right: 2rem; */
   transition: all 0.2s ease-in-out; }
   .nav-toggle:hover {
     color: white;
