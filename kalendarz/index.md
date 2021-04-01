@@ -40,9 +40,7 @@ Regulamin Zawodów z Okazji dnia Wojska Polskiego_16.08.2020	|	P,K,S	|	KS LOK LO
 30	|	Liga ODWOŁANE	|	ODWOŁANE
 	|	KS LOK LOKUS	|	Bukowno
 Wrzesień	|		|		|		|	
-6	|	Zawody o Puchar Prezesa ZP LOK w Olkuszu (dla zawodników z licencją PZSS)
-
-Regulamin Zawodów o Puchar Prezesa ZP LOK w Olkuszu	|	P,K,S	|	KS LOK LOKUS	|	Bukowno
+6	|	Zawody o Puchar Prezesa ZP LOK w Olkuszu (dla zawodników z licencją PZSS) |	P,K,S	|	KS LOK LOKUS	|	Bukowno
 10	|	Egzamin na patent	|	P,K,S	|	MZSS	|	Tarnów
 12 – 13	|	II Runda Pucharu Polski ( OPEN )	|	P,K	|	PZSS	|	Tarnów
 12 ( Sobota) 	|	Liga od godziny 9.00 	|	Kcz x2	|	KS LOK LOKUS	|	Sławków
