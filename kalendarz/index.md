@@ -3,9 +3,6 @@ layout: default
 title: Kalendarz
 ---
 
-<div class="home" id="home">
-  <h1 class="pageTitle">Aktualności</h1>
-	
 Data	|	Nazwa imprezy	|	Dyscyplina	|	Organizator	|	Miejsce
 --- | --- | --- | --- | --- 
 Maj	|		|		|		|	
@@ -61,5 +58,3 @@ Listopad	|		|		|		|
 22	|	Liga godz. 10.00	|	Pcz ,Psp	|	KS LOK LOKUS	|	Bukowno
 26	|	Egzamin na patent	|	P,K,S	|	MZSS	|	Tarnów
 29	|	Zakończenie sezonu	|		|	KS LOK LOKUS	|	Bukowno
-
-</div>
