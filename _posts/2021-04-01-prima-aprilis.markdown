@@ -6,13 +6,13 @@ description: Bartek wyjaśnia jak w Markdown'nie robić tabelki.
 
 Filozoji wielkiej tu nie ma - tabelki się "maluje" klawiaturą.
 
-{%- highlight markdown -%}
+<pre>
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-{%- endhighlight -%}
+</pre>
 
 
 | Tabelki                     | Są               | Spoko |
@@ -28,12 +28,12 @@ Brzydki przykład, który mimo to działa:
 - minimum 3 pauzy zeby odzielić nagłówek
 - W środku nadal działa formatowanie
 
-{%- highlight markdown -%}
+<pre>
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
-{%- endhighlight -%}
+</pre>
 
 Markdown | Less | Pretty
 --- | --- | ---
