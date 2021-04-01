@@ -1,19 +1,18 @@
 ---
 layout: post
 title:  "Tabelki na PrimaAprilis"
-date:   2015-12-15
 description: Bartek wyjaśnia jak w Markdown'nie robić tabelki.
 ---
 
 Filozoji wielkiej tu nie ma - tabelki się "maluje" klawiaturą.
 
-<pre>
+{%- highlight markdown -%}
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-</pre>
+{%- endhighlight -%}
 
 
 | Tabelki                     | Są               | Spoko |
@@ -29,12 +28,12 @@ Brzydki przykład, który mimo to działa:
 - minimum 3 pauzy zeby odzielić nagłówek
 - W środku nadal działa formatowanie
 
-<pre>
+{%- highlight markdown -%}
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
-</pre>
+{%- endhighlight -%}
 
 Markdown | Less | Pretty
 --- | --- | ---
