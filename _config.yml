@@ -20,12 +20,12 @@ navigation:
   - title: Strona główna
     url: /index.html
   - title: Kalendarz
-    url: /about
+    url: /kalendarz
   - title: Kontakt
-    url: /contact
+    url: /kontakt
 
 social:
-  github: bjurga
+  github: bjurga/lokus2
   #twitter: bjurga
   facebook: Lokus.olkusz
   email: lokus.olkusz@gmail.com
