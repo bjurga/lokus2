@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kalendarz
+---
+
+
 Data	|	Nazwa imprezy	|	Dyscyplina	|	Organizator	|	Miejsce
 --- | --- | --- | --- | --- 
 Maj	|		|		|		|	
